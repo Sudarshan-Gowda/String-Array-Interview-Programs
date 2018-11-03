@@ -1,5 +1,5 @@
 package com.star.sud;
-/*@Author Sudarshan*/
+/*@Author Sudarshan Gowda*/
 public class StringPrograms {
 
 	public static void program1(String str) {
